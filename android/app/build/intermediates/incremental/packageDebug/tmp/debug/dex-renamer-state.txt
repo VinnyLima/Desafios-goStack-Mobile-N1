@@ -1,4 +1,4 @@
-#Sun Apr 12 08:37:32 BRT 2020
-base.0=/media/vinny/ARQUIVOS/RocketSeat/GoStack/Desafios-GoStack2/Mobile/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+#Sat Apr 18 23:48:52 BRT 2020
+base.0=/mnt/C8D03C30D03C275A/RocketSeat/GoStack/Desafios/Desafios-goStack-Mobile-N1/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

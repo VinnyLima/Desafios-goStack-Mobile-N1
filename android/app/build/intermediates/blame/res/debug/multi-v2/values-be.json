@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/media/vinny/ARQUIVOS/RocketSeat/GoStack/Desafios-GoStack2/Mobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml",
+            "outputFile": "/mnt/C8D03C30D03C275A/RocketSeat/GoStack/Desafios/Desafios-goStack-Mobile-N1/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml",
             "map": [
                 {
                     "source": "/home/vinny/.gradle/caches/transforms-2/files-2.1/4f509a65121478d6153615d7ef5b7c5f/core-1.1.0/res/values-be/values-be.xml",

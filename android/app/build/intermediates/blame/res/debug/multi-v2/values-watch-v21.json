@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/media/vinny/ARQUIVOS/RocketSeat/GoStack/Desafios-GoStack2/Mobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v21/values-watch-v21.xml",
+            "outputFile": "/mnt/C8D03C30D03C275A/RocketSeat/GoStack/Desafios/Desafios-goStack-Mobile-N1/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v21/values-watch-v21.xml",
             "map": [
                 {
                     "source": "/home/vinny/.gradle/caches/transforms-2/files-2.1/2b7e6ebaa515cd43f42fb356f0d1941c/appcompat-1.1.0/res/values-watch-v21/values-watch-v21.xml",
